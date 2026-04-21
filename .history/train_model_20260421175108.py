@@ -34,7 +34,7 @@ with open("model.pkl", "wb") as f:
     pickle.dump(model, f)
 
 # Save columns
-with open("columns.pkl", "wb") as f:
+with open("model/columns.pkl", "wb") as f:
     pickle.dump(X.columns.tolist(), f)
 
 print("✅ Model saved successfully!")

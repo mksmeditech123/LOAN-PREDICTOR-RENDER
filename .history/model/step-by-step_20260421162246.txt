@@ -1,0 +1,4 @@
+Render
+Render is a cloud platform that automates the deployment and 
+scaling of web applications, APIs, databases, and static sites. 
+It provides developers with an integrated infrastructure solution that combines the ease of use of platforms like Heroku with the flexibility and scalability of traditional cloud providers.

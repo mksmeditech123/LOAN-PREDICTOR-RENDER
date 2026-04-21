@@ -1,0 +1,24 @@
+Render
+Render is a cloud platform that automates the deployment and 
+scaling of web applications, APIs, databases, and static sites. 
+It provides developers with an integrated infrastructure solution 
+that combines the ease of use of platforms like Heroku with the 
+flexibility and scalability of traditional cloud providers.
+
+Render allows developers to deploy code directly from GitHub or GitLab repositories.
+
+step 1
+python train_model.py
+
+
+CHECK
+Go to:
+model/
+👉 You MUST see:
+model.pkl (NOT 0 KB)
+columns.pkl (NOT 0 KB)
+
+
+STEP 2 — CREATE FASTAPI BACKEND
+api.py
+
